@@ -1,5 +1,5 @@
-import css from "Components/ProfilePage/Profile.module.css";
-import PropTypes from "prop-types";
+import css from 'Components/ProfilePage/profile.module.css';
+import PropTypes from 'prop-types';
 
 //{css.className}
 
